@@ -1,40 +1,40 @@
-# 1. Getting Started
+# 1. 着手开始
 
 ---
 
-## 1.1 What is web and how does it work?
+## 1.1 什么是Web,它怎么工作？
 
-Any modern website is made up of three important components: Client, Server and Database
+任何现代的网站都由三个组件组成：客户端、服务器和数据库
 
-### In a Nutshell:
+### 基本来说:
 
-1. Client - The web page that users intereracts with and accepts user input
-2. Server - The service that handles the most important business logic on a website
-3. Database - The storage of data and information that's generated from a website
+1. 客户端：用户与之交互并接受用户输入的网页
+2. 服务器：处理网站上重要业务逻辑的服务
+3. 数据库： 存储从网站生成的数据和信息
 
-### Real world scenario:
+### 真实场景:
 
-#### Client
+#### 客户端
 
-Take the example of the signup page on facebook.com, the client is the signup page that has a big logo that says Facebook on the left and a signup form that you need to fill out to register. When the user fills out the form and hit the sign up button, the signup form will be sent from the client to the server. This process of sending data to the server is called a **HTTP Request. **Sounds familiar right? Keep reading.
+以facebook.com上的注册页面为例，客户端是注册页面，该注册页面上有一个大Facebook徽标和注册表单。 当用户填写表单并点击注册按钮时，注册表单将从客户端发送到服务器。 将数据发送到服务器的过程称为**HTTP请求**。 听起来很熟悉？ 继续阅读。
 
-#### Server
+#### 服务器
 
-The server is basically a program that keeps running on a computer without stopping and waits for requests from the client. When a user signup form is being sent from the client to the server, the server catches that form data and starts processing. The server might need to capitalize your first and last name fields, check if your email address is legit and unique etc. After the server verifies that your signup form passes all the checks that the facebook engineers have setup, your data will be saved into the database. After the data is sent to the database, the server will respond to client and let the client know that the operation was successful. This process of responding to the client after every client request is called the **HTTP Response.** The client will then navigate to a new page if the response says the user is sucessfully created, or display a error message if the user isn't created for any reason.
+服务器基本上是一个程序，它不停地运行在计算机上，并等待客户端的请求。 当用户注册表单从客户端发送到服务器时，服务器捕获该表单数据并开始处理。 服务器可能需要大写您的名字和姓氏字段，检查您的电子邮件地址是否合法和唯一。在服务器验证您的注册表单通过了facebook工程师设置的所有检查后，您的数据将被保存到 数据库。 数据发送到数据库后，服务器将响应客户端并让客户端知道操作成功。 在每个客户端请求之后响应客户端的过程称为**HTTP响应**。 如果响应表示用户已成功创建，则客户端将导航到新页面，或者如果用户未由于任何原因而创建，则显示错误消息。
 
-#### Database
+#### 数据库
 
-As the new user's signup data enters the database, the user's first name, last name, email address, password etc are then put into their respective _places_ \(we call them columns in SQL and documents in NOSQL\). The database is like a warehouse that stores all the data and information that's generated from your website. You only store what you want to store.
+随着新用户的注册数据进入数据库，用户的名字，姓氏，电子邮件地址，密码等将被放入他们各自的*位置*（我们称他们为SQL中的列*或*NOSQL中的文档）。 数据库就像一个仓库，存储从您的网站生成的所有数据和信息。 您只存储您想要存储的内容。
 
-That was a mouthful... here's a cool diagram I drew to help you understand the concept:
+这是一张很酷的图表，我画出来帮助你理解这个概念：
 
-The paragraphs on Client, Server and Database basically follows the diagram's flow
+客户端，服务器和数据库的段落基本上遵循图表的流程...
 
-## 1.2 Modern problems with the web
+## 1.2 现代网络问题
 
-Request per second
+每秒请求数
 
-Imagine the whole process described in the section above happens simultaneously with millions of users at the same time. Wechat for instance had a record signup count of 200,000 per day. The server would need to process millions of data sent to the server
+想象一下上述部分描述的整个过程与数百万用户同时发生。 例如，微信每天的注册记录数为20万。 服务器需要处理数百万个发送到服务器的数据
 
 
 
