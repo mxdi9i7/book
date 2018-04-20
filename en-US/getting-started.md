@@ -36,17 +36,29 @@ Request per second
 
 Imagine the whole process described in the section above happens simultaneously with millions of users at the same time. Wechat for instance had a record signup count of 200,000 per day. The server would need to process millions of data sent to the server
 
+## 1.3 Picking an editor and a browser
+
+### Editor
+
+There are many great editors online that have robust features and huge user base. For this series we will stick to Visual Studio Code by Microsoft to write our programs. The latest version can be downloaded here: link
+
+### Browser
+
+You may be familiar with many of the largest internet browsers in the market, there are Firefox, Internet Explorer \(emmmm\), Edge, Safari, Chrome and many others. We will be using Chrome to test all of our programs covered in this series. The reasons being that:
+
+1. Chrome has more than 60% market share in internet browsers and its ever increasing
+2. Chrome has the latest Javascript engine and is compatible with most of the latest features in web development
+3. It  is likely that you will have to write additional compatibility code for other major browsers, but Chrome is a good place to start. If your program can run on Chrome, you have have already solved 60% of the problem
+
+Latest version of Chrome browser can be downloaded here: link
 
 
 
+## 1.4 Working space setup
 
+### Folder structure
 
-
-
-
-
-
-
+For HTML pages, you should create a new folder and save it in a convenient directory \(probably your desktop\). Create a new file called `index.html` in that folder and you will be ready to start  learning!
 
 
 
