@@ -3,25 +3,27 @@
 This is the table of content for this tutorial series that also contains the breakdown of the curriculum in chronological order.
 
 1. Getting started
-   1. What is web and how does it work
-   2. Modern problems with the web
-   3. Picking an editor and a browser
-   4. Working space setup
+    1. What is web and how does it work
+    2. Modern problems with the web
+    3. Picking an editor and a browser
+    4. Working space setup
 2. HTML
-   1. What is HTML
-   2. HTML structure
-   3. HTML tags and relationships
-   4. HTML head and body
-   5. HTML basic tags
-   6. HTML image
-   7. HTML nested tags
-   8. HTML forms
-   9. HTML containers
-   10. HTML Best practices
-   11. Quiz
-   12. Project
-
-   1. HTML additional resources \(external reading, answer key and sample project\)
+    1. What is HTML
+    2. HTML structure
+    3. HTML tags and relationships
+    4. HTML head and body
+    5. HTML basic tags
+    6. TML image
+    7. HTML nested tags
+    8. HTML forms
+    9. HTML containers
+    10. HTML Best practices
+    11. Quiz
+    12. Project
+    13. HTML additional resources 
+        1. external reading
+        2. answer key
+        3. sample project
 3. CSS
    1. What is CSS
    2. CSS structure
@@ -39,94 +41,94 @@ This is the table of content for this tutorial series that also contains the bre
    14. Project
    15. CSS additional resources
 4. Flexbox
-   1. What is Flexbox
-   2. Parent and children
-   3. Content alignment
-   4. Children alignment
-   5. Flexbox layout
-   6. Quiz
-   7. Project
-   8. Flexbox additional resources
+   16. What is Flexbox
+   17. Parent and children
+   18. Content alignment
+   19. Children alignment
+   20. Flexbox layout
+   21. Quiz
+   22. Project
+   23. Flexbox additional resources
 5. Javascript
-   1. What is Javascript and ES6
-   2. Script in HTML
-   3. Javascript basic syntax
-   4. Javascript strings
-   5. Javascript numbers
-   6. Javascript arrays
-   7. Javascript booleans
-   8. Javascript objects
-   9. Javascript Math
-   10. Javascript conditional statements
-   11. Javascript loops
-   12. Javascript switch
-   13. Javascript functions
-   14. Javascript regexp
-   15. Javascript DOM
-   16. Javascript XHR and HTTP
-   17. Javascript Promises
-   18. Javascript Async Await
-   19. Standard JS
-   20. jQuery?
-   21. Practice I
-   22. Practice II
-   23. Practice III
-   24. Quiz
-   25. Project
+   24. What is Javascript and ES6
+   25. Script in HTML
+   26. Javascript basic syntax
+   27. Javascript strings
+   28. Javascript numbers
+   29. Javascript arrays
+   30. Javascript booleans
+   31. Javascript objects
+   32. Javascript Math
+   33. Javascript conditional statements
+   34. Javascript loops
+   35. Javascript switch
+   36. Javascript functions
+   37. Javascript regexp
+   38. Javascript DOM
+   39. Javascript XHR and HTTP
+   40. Javascript Promises
+   41. Javascript Async Await
+   42. Standard JS
+   43. jQuery?
+   44. Practice I
+   45. Practice II
+   46. Practice III
+   47. Quiz
+   48. Project
 6. Git and version control
-   1. What is Git?
-   2. Getting to know your terminal
-   3. Git download and setup
-   4. Navigating your directories
-   5. Git basic commands
-   6. Git branches
-   7. Pull requests
-   8. What is open source
-   9. Popular projects
-   10. Quiz
+   49. What is Git?
+   50. Getting to know your terminal
+   51. Git download and setup
+   52. Navigating your directories
+   53. Git basic commands
+   54. Git branches
+   55. Pull requests
+   56. What is open source
+   57. Popular projects
+   58. Quiz
 7. Node.js
-   1. What is Node.js
-   2. Setup your node project and npm
-   3. Package.json
-   4. Install your first node module
+   59. What is Node.js
+   60. Setup your node project and npm
+   61. Package.json
+   62. Install your first node module
 8. Express.js
-   1. What is Express.js
-   2. Setup your Express.js server
-   3. Routers
-   4. The MVC model
-   5. Working with GET requests
-   6. Handling POST requests
-   7. Setup your API server
-   8. Handling errors
-   9. Render your application
+   63. What is Express.js
+   64. Setup your Express.js server
+   65. Routers
+   66. The MVC model
+   67. Working with GET requests
+   68. Handling POST requests
+   69. Setup your API server
+   70. Handling errors
+   71. Render your application
 9. NOSQL
-   1. What is MongoDB and NOSQL
-   2. Setup your Mongodb server
-   3. Connect your MongoDB server to your express server
-   4. Create your first model
-   5. Create your first schema
-   6. Create records
-   7. Read records
-   8. Update records
-   9. Delete records
-   10. Sort and limit
-   11. Query operators
-   12. Indexing
-   13. Tie it up with your API server
+   72. What is MongoDB and NOSQL
+   73. Setup your Mongodb server
+   74. Connect your MongoDB server to your express server
+   75. Create your first model
+   76. Create your first schema
+   77. Create records
+   78. Read records
+   79. Update records
+   80. Delete records
+   81. Sort and limit
+   82. Query operators
+   83. Indexing
+   84. Tie it up with your API server
 10. The backend ecosystem
     1. Setting up your production enviroment
     2. Deploying your application
     3. Managing your server
 11. 1. Server components review
-    2. How they work together
-    3. Web 1.0 vs Web 2.0
-    4. Server rendering vs. Client rendering
-    5. Future trend
-    6. Quiz \(covers node + express + mongodb\)
-    7. Midterm exam \(cumulative of all material up to this point\)
-    8. Project I
-    9. Project II
-    10. Project III
+    1. How they work together
+    2. Web 1.0 vs Web 2.0
+    3. Server rendering vs. Client rendering
+    4. Future trend
+    5. Quiz \(covers node + express + mongodb\)
+    6. Midterm exam \(cumulative of all material up to this point\)
+    7. Project I
+    8. Project II
+    9. Project III
 12. Back to frontend
     1. Why keep frontend separate from backend
     2. Introducing popular frontend frameworks and libraries
@@ -158,7 +160,15 @@ This is the table of content for this tutorial series that also contains the bre
     7. Managing your application
     8. Quiz
     9. Project
-14. What's next...
+
+14. React Native
+    1. How does React Native work
+    2. Components
+    3. Simlar concepts
+    4. Navigation
+    5. Authentication
+    6. 
+15. What's next...
 
 
 
