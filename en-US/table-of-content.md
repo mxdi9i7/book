@@ -11,16 +11,15 @@ This is the table of content for this tutorial series that also contains the bre
     1. What is HTML
     2. HTML structure
     3. HTML tags and relationships
-    4. HTML head and body
-    5. HTML basic tags
-    6. TML image
-    7. HTML nested tags
-    8. HTML forms
-    9. HTML containers
-    10. HTML Best practices
-    11. Quiz
-    12. Project
-    13. HTML additional resources 
+    4. HTML basic tags
+    5. HTML image
+    6. HTML nested tags
+    7. HTML forms
+    8. HTML containers
+    9. HTML Best practices
+    10. Quiz
+    11. Project
+    12. HTML additional resources 
         1. external reading
         2. answer key
         3. sample project
